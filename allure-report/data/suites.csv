@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4","login tc1","firefox","Sat Sep 28 11:51:39 IST 2024","failed","Sat Sep 28 11:51:39 IST 2024","","tests/loginpage.spec.js","",""
+"","171","login tc1","webkit","Sat Sep 28 11:51:39 IST 2024","failed","Sat Sep 28 11:51:39 IST 2024","","tests/loginpage.spec.js","",""
+"","9426","login tc1","chrome","Sat Sep 28 12:27:41 IST 2024","passed","Sat Sep 28 12:27:51 IST 2024","","tests/loginpage.spec.js","",""
